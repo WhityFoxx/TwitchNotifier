@@ -19,5 +19,5 @@
 
 # Resources
 [PyCord](https://pycord.dev) [Twitch API](https://dev.twitch.tv/docs/api/) 
-Contacts: Discord - whityfox, Telegram - [whityfox](t.me/whityfox)
+Contacts: Discord - whityfox, Telegram - [whityfox](https://t.me/whityfox)
 
