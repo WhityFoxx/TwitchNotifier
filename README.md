@@ -19,4 +19,5 @@
 
 # Resources
 [PyCord](https://pycord.dev) [Twitch API](https://dev.twitch.tv/docs/api/) 
-Author - whityfox
+Contacts: Discord - whityfox, Telegram - @whityfox
+
